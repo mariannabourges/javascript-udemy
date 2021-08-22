@@ -1,1 +1,1 @@
-# javascript-udemy
+Exercícios e estudos em javascript.
